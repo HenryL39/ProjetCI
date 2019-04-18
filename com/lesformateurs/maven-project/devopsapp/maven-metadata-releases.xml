@@ -3,10 +3,11 @@
   <groupId>com.lesformateurs.maven-project</groupId>
   <artifactId>devopsapp</artifactId>
   <versioning>
-    <release>1.8.5</release>
+    <release>1.8.6</release>
     <versions>
       <version>1.8.5</version>
+      <version>1.8.6</version>
     </versions>
-    <lastUpdated>20190418204615</lastUpdated>
+    <lastUpdated>20190418204956</lastUpdated>
   </versioning>
 </metadata>
