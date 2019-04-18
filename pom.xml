@@ -17,8 +17,9 @@
   </properties>
 
   <modules>
-    <module>server</module>
-    <module>webapp</module>
+    <module>server/pom_server.xml</module>
+
+    <module>webapp/pom_webapp.xml</module>
   </modules>
   
   <reporting>
