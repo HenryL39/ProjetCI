@@ -14,17 +14,17 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
-
+ <scm>
+    <connection>scm:git:https://github.com/HenryL39/ProjetCI.git</connection>
+    <developerConnection>scm:git:https://github.com/HenryL39/ProjetCI.git</developerConnection>
+    <url>https://github.com/HenryL39/ProjetCI</url>
+  </scm>
   <modules>
     <module>server/pom_server.xml</module>
 
     <module>webapp/pom_webapp.xml</module>
   </modules>
-  <scm>
-    <connection>https://github.com/HenryL39/ProjetCI.git</connection>
-    <developerConnection>https://github.com/HenryL39/ProjetCI.git</developerConnection>
-    <url>https://github.com/HenryL39/ProjetCI</url>
-  </scm>
+ 
   <reporting>
 	<plugins>
               <plugin>
