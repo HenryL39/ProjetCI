@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 18 13:57:34 PDT 2019
+server-1.8.7-javadoc.jar>=
+server-1.8.7-sources.jar>=
+server-1.8.7.pom>=
+server-1.8.7.jar>=

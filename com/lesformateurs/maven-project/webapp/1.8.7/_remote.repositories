@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 18 13:57:38 PDT 2019
+webapp-1.8.7.pom>=
+webapp-1.8.7.war>=
