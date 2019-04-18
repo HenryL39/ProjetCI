@@ -12,6 +12,7 @@
 
   <artifactId>server</artifactId>
   <packaging>jar</packaging>
+    <version>1.0-SNAPSHOT</version>
   <name>Server DevOps App</name>
   <description>Serveur pour application DevOps App.</description>
 

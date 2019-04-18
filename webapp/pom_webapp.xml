@@ -12,6 +12,7 @@
 
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
+  <version>1.0-SNAPSHOT</version>
   <name>Webapp DevOps App</name>
   <description>Partie Web pour application DevOps App</description>
 
