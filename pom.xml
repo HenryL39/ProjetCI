@@ -275,5 +275,9 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-
+  <scm>
+     <connection>scm:git:https://github.com/HenryL39/ProjetCI.git</connection>
+      <url>http://github.com/HenryL39/ProjetCI</url>
+      <developerConnection>scm:git:https://github.com/HenryL39/ProjetCI.git</developerConnection>
+  </scm>
 </project>
