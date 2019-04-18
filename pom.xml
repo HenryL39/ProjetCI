@@ -57,11 +57,11 @@
   </reporting>
 
 <distributionManagement>
-    <snapshotRepository>
+    <!--<snapshotRepository>
         <id>snapshots</id>
         <name>devops-app-01-snapshots</name>
         <url>http://192.168.100.79:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
+    </snapshotRepository>-->
         <repository>
         <id>releases</id>
         <name>devops-app-01-releases</name>
