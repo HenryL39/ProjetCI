@@ -5,7 +5,7 @@
   <groupId>com.lesformateurs.maven-project</groupId>
   <artifactId>devopsapp</artifactId>
   <packaging>pom</packaging>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>DevOps App</name>
   <description>Application DevOps App developpe par LesFormateurs.</description>
   <url>http://www.lesformateurs.com</url>
