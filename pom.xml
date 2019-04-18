@@ -173,7 +173,9 @@
           <version>2.8</version>
               <configuration>
       <additionalparam>-Xdoclint:none</additionalparam>
+      <failOnError>false</failOnError>
     </configuration>
+
         </plugin>
 
         <plugin>
