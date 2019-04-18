@@ -5,7 +5,7 @@
   <groupId>com.lesformateurs.maven-project</groupId>
   <artifactId>devopsapp</artifactId>
   <packaging>pom</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.3-SNAPSHOT</version>
   <name>DevOps App</name>
   <description>Application DevOps App developpe par LesFormateurs.</description>
   <url>http://www.lesformateurs.com</url>
@@ -17,7 +17,7 @@
  <scm>
     <connection>scm:git:https://github.com/HenryL39/ProjetCI.git</connection>
     <developerConnection>scm:git:https://github.com/HenryL39/ProjetCI.git</developerConnection>
-    <url>https://github.com/HenryL39/ProjetCI</url>
+    <url>BloodyChaton:toubli18*GH@https://github.com/HenryL39/ProjetCI</url>
     <tag>HEAD</tag>
   </scm>
   <modules>
@@ -167,7 +167,9 @@
 
         <plugin>
           <artifactId>maven-javadoc-plugin</artifactId>
-          <version>2.8</version>
+          <!--<version>2.8.0</version>-->
+          <version>3.1.0</version>
+
         </plugin>
 
         <plugin>
