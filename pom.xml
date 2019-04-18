@@ -177,7 +177,7 @@
               <execution>
                  <id>attach-javadocs</id>
                  <goals>
-                     <goal>pom</goal>
+                     <goal>jar</goal>
                  </goals>
                  <configuration> <!-- add this to disable checking -->
                      <additionalparam>-Xdoclint:none</additionalparam>
