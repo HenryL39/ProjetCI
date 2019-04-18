@@ -5,7 +5,7 @@
   <groupId>com.lesformateurs.maven-project</groupId>
   <artifactId>devopsapp</artifactId>
   <packaging>pom</packaging>
-  <version>1.6-SNAPSHOT</version>
+  <version>1.5-SNAPSHOT</version>
   <name>DevOps App</name>
   <description>Application DevOps App developpe par LesFormateurs.</description>
   <url>http://www.lesformateurs.com</url>
@@ -36,14 +36,9 @@
               <artifactId>maven-jxr-plugin</artifactId>
             </plugin>
 
-            <plugin>
+            <!--<plugin>
               <artifactId>maven-javadoc-plugin</artifactId>
-        		<version>3.1.0</version>
-        <configuration>
-          ...
-        </configuration>
-      </plugin>
-            </plugin>
+            </plugin>-->
 
             <plugin>
               <artifactId>maven-pmd-plugin</artifactId>
@@ -98,7 +93,6 @@
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
-        <version>2.5.3</version>
         <configuration>
           <autoVersionSubmodules>true</autoVersionSubmodules>
         </configuration>
@@ -171,12 +165,12 @@
           <version>2.3.2</version>
         </plugin>
 
-        <plugin>
+        <!--<plugin>
           <artifactId>maven-javadoc-plugin</artifactId>
-          <!--<version>2.8.0</version>-->
+          <version>2.8.0</version>
           <version>3.1.0</version>
 
-        </plugin>
+        </plugin>-->
 
         <plugin>
           <artifactId>maven-jxr-plugin</artifactId>

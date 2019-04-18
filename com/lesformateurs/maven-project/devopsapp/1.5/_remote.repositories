@@ -1,4 +1,3 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
 #Thu Apr 18 08:29:36 PDT 2019
-maven-metadata-snapshots.xml.lastUpdated=1555583790921
-maven-metadata-releases.xml.lastUpdated=1555601376975
+devopsapp-1.5.pom>=
