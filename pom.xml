@@ -279,6 +279,6 @@
      <connection>scm:git:http://github.com/HenryL39/ProjetCI.git</connection>
       <url>http://github.com/HenryL39/ProjetCI</url>
       <developerConnection>scm:git:http://github.com/HenryL39/ProjetCI.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>feature/machine2</tag>
   </scm>
 </project>
