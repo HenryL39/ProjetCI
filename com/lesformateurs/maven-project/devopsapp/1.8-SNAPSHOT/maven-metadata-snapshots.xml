@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.lesformateurs.maven-project</groupId>
+  <artifactId>devopsapp</artifactId>
+  <version>1.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190418.180754</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190418180754</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.8-20190418.180754-1</value>
+        <updated>20190418180754</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
