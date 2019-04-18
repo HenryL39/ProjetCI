@@ -60,12 +60,12 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>devops-app-01-snapshots</name>
-        <url>http://localhost:8081/repository/maven-snapshots/</url>
+        <url>http://192.168.100.79:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
         <repository>
         <id>releases</id>
         <name>devops-app-01-releases</name>
-        <url>hhttp://localhost:8081/repository/maven-releases/</url>
+        <url>hhttp://192.168.100.79:8081/repository/maven-releases/</url>
     </repository>
 </distributionManagement>
 
