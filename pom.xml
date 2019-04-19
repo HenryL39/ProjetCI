@@ -5,7 +5,7 @@
   <groupId>com.lesformateurs.maven-project</groupId>
   <artifactId>devopsapp</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.2</version>
+  <version>1.0.3-SNAPSHOT</version>
   <name>DevOps App</name>
   <description>Application DevOps App developpe par LesFormateurs.</description>
   <url>http://www.lesformateurs.com</url>
@@ -13,13 +13,12 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-    <project.scm.id>zescm</project.scm.id>
+    <!--<project.scm.id>zescm</project.scm.id>-->
   </properties>
  <scm>
     <connection>scm:git:git@github.com:HenryL39/ProjetCI.git</connection>
     <developerConnection>scm:git:git@github.com:HenryL39/ProjetCI.git</developerConnection>
-    <url>scm:git:git@github.com:HenryL39/ProjetCI.git</url>
-    <tag>devopsapp-1.0.2</tag>
+    <url>https://github.com/HenryL39/ProjetCI</url>
   </scm>
   <modules>
     <module>server/pom_server.xml</module>
