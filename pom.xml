@@ -13,14 +13,14 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-    <!--<project.scm.id>zescm</project.scm.id>-->
+    <project.scm.id>zescm</project.scm.id>
   </properties>
- <!--<scm>
+ <scm>
     <connection>scm:git:https//BloodyChaton@github.com/HenryL39/ProjetCI.git</connection>
     <developerConnection>scm:git:https://BloodyChaton@github.com/HenryL39/ProjetCI.git</developerConnection>
     <url>git:https://BloodyChaton@github.com/HenryL39/ProjetCI</url>
    <tag>devopsapp-1.8.3</tag>
-  </scm>-->
+  </scm>
   <modules>
     <module>server/pom_server.xml</module>
 
