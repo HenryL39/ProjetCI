@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Repository - Nexus Repository Manager</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+
+  <!--[if lt IE 9]>
+  <script>(new Image).src="http://192.168.100.79:8081/favicon.ico?3.16.1-02"</script>
+  <![endif]-->
+  <link rel="icon" type="image/png" href="http://192.168.100.79:8081/favicon-32x32.png?3.16.1-02" sizes="32x32">
+  <link rel="mask-icon" href="http://192.168.100.79:8081/safari-pinned-tab.svg?3.16.1-02" color="#5bbad5">
+  <link rel="icon" type="image/png" href="http://192.168.100.79:8081/favicon-16x16.png?3.16.1-02" sizes="16x16">
+  <link rel="shortcut icon" href="http://192.168.100.79:8081/favicon.ico?3.16.1-02">
+  <meta name="msapplication-TileImage" content="http://192.168.100.79:8081/mstile-144x144.png?3.16.1-02">
+  <meta name="msapplication-TileColor" content="#00a300">
+
+  <link rel="stylesheet" type="text/css" href="http://192.168.100.79:8081/static/css/nexus-content.css?3.16.1-02"/>
+</head>
+<body>
+<div class="nexus-header">
+  <a href="http://192.168.100.79:8081">
+    <div class="product-logo">
+      <img src="http://192.168.100.79:8081/static/images/nexus.png?3.16.1-02" alt="Product logo"/>
+    </div>
+    <div class="product-id">
+      <div class="product-id__line-1">
+        <span class="product-name">Nexus Repository Manager</span>
+      </div>
+      <div class="product-id__line-2">
+        <span class="product-spec">OSS 3.16.1-02</span>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="nexus-body">
+  <div class="content-header">
+    <img src="http://192.168.100.79:8081/static/rapture/resources/icons/x32/database.png?3.16.1-02" alt="Repository image"/>
+    <span class="title">Repository</span>
+    <span class="description">maven-snapshots</span>
+  </div>
+
+  <div class="content-body">
+    <div class="content-section">
+      <p>
+        This maven2 hosted repository is not directly browseable at this URL.
+      </p>
+
+      <p>
+        Please use the <a href="http://192.168.100.79:8081/#browse/browse:maven-snapshots">browse</a>
+        or <a href="http://192.168.100.79:8081/service/rest/repository/browse/maven-snapshots/">HTML index</a>
+        views to inspect the contents of this repository.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
